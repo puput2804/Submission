@@ -18,7 +18,7 @@ st.sidebar.write("Email: **M193B4KX3518@bangkit.academy**")
 st.sidebar.write("ID Dicoding: **M193B4KX3518**")
 
 # Header judul dashboard
-st.title('Bike Sharing Dataset')
+st.title('E-Commerce_Public_Dataset')
 st.markdown("---")
 
 # Bagian deskripsi atau pengantar dengan card-style
