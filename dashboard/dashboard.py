@@ -31,7 +31,7 @@ with st.container():
     """, unsafe_allow_html=True)
 
 # 1. Membaca Data
-st.subheader("Pertanyaan 1 : Apa pola jumlah pesanan berdasarkan tahun?")
+st.subheader("Pertanyaan 1 : Ditahun berapa pesanan meningkat pesat?")
 st.markdown("---")
 
 # Mendapatkan path direktori kerja saat ini
